@@ -1,0 +1,6 @@
+{
+  "repo": "JasmineReloader",
+  "name": "JasmineReloader",
+  "description": "Reloads Jasmine in the browser each time user saves a _spec.js file",
+  "author": "Jon Plaut",
+}
